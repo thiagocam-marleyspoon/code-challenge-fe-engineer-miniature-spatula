@@ -59,5 +59,5 @@ with the body following the format:
 
 ## Deliverables
 
-Please send us a link to the hosted repositories with your code. Preferably, invite `thiagocam-marleyspoon` to your Github repo as well. If you have uploaded your solution in another platform like Gitlab, Bitbucket, etc., please, make them public and send us the link.
+Please send us a link (via email) to the hosted repositories with your code. Preferably, invite `thiagocam-marleyspoon` to your Github repo as well. If you have uploaded your solution in another platform like Gitlab, Bitbucket, etc., please, make them public and send us the link.
 You should include all the code necessary to run the app and documentation on how to do it.
